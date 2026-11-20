@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 黑色圆角底板 -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M10,6 L38,6 Q42,6 42,10 L42,38 Q42,42 38,42 L10,42 Q6,42 6,38 L6,10 Q6,6 10,6 Z" />
+    <!-- 白色课程格 -->
+    <path android:fillColor="#FFFFFF" android:pathData="M12,14h10v8h-10z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M26,14h10v8h-10z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M12,26h10v8h-10z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M26,26h10v8h-10z" />
+</vector>

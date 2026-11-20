@@ -1,0 +1,19 @@
+# Android / Gradle 构建产物
+.gradle/
+.kotlin/
+.android-build/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+
+# 交付产物（二进制不入库）
+*.apk
+*.zip
+
+# 测试截图与个人参考图片
+shots/
+wechat-qr.png
+74996ef78d7516160585577487daf4e1.jpg
+detail-card-ref.jpg
